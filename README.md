@@ -1,0 +1,1 @@
+# AutoHotkey_RK61config
